@@ -9,6 +9,3 @@ dependencies:
 
 exposed-modules:
   - Hello
-
-build-options:
-  - --target=2.1
